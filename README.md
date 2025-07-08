@@ -26,7 +26,7 @@ Mobile Developer | Flutter & GetX Enthusiast
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React_Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React Bootstrap](https://img.shields.io/badge/React_Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 💾 Other Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -34,9 +34,11 @@ Mobile Developer | Flutter & GetX Enthusiast
 ![VB.NET](https://img.shields.io/badge/VB.NET-68217A?style=for-the-badge)
 
 ---
-## 📌 Favorite Project
 
-[**CORE – City Operation & Response Ecosystem**](https://github.com/NikkiIndra/CORE-City-Operation-Response-Ecosystem.git)
+## 📌 Favorite Projects
+
+- 🔗 [**CORE – City Operation & Response Ecosystem**](https://github.com/NikkiIndra/CORE-City-Operation-Response-Ecosystem.git)  
+- 🛒 [**E-Commerce Project Kelompok 1 (PEMWEB)**](https://github.com/NikkiIndra/PROJEK-PEMWEB-KELOMPOK-1.git)
 
 ---
 
